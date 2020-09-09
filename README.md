@@ -25,7 +25,7 @@ The following tools were used in this project:
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made  by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Diego Triviño</a>
+Made  by <a href="https://github.com/diegotri-89" target="_blank">Diego Triviño</a>
 
 &#xa0;
 
